@@ -2,6 +2,8 @@ FinDash Pro — Smart Analytics
 
 A web-based expense tracker prototype designed to help users organize and visualize their personal expenses through a dashboard.
 
+🌐 **Live Demo:** [View FinDash Pro](https://iqra-siddiqui633.github.io/findash-pro-expense-tracker/)
+
 Features
 
 - Expense tracking and organization
